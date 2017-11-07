@@ -1,0 +1,6 @@
+Bugs:
+1) addBack works for only one number. Using addBack to add more than one number results in it only adding the last number
+2) isEmpty always returns true
+3) removeBack still returns false despite seeming to do its job correctly
+4) removeFront does not work; removes all values except the front and always returns false
+5) Size does not decrement or change for removeBack or removeFront
